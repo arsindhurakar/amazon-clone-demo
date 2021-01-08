@@ -1,0 +1,1 @@
+export const logoAmazon = "https://www.t2techgroup.com/wp-content/uploads/2020/09/Amazon-logo.jpg"

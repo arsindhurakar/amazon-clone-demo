@@ -1,0 +1,24 @@
+.navbarProd {
+  border-right: 2px solid #ddd;
+}
+
+.department {
+  margin-left: 16px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.nav__section {
+  margin-bottom: 16px;
+}
+
+.nav__list > li {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.nav__list > li > input {
+  margin-right: 4px;
+}

@@ -1,0 +1,18 @@
+.btn-primary {
+  width: 100%;
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  outline: none;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.btn-primary:active,
+.btn-primary:focus {
+  box-shadow: 0 0 5px #ff8c00;
+  border: 1px solid #ff8c00;
+}

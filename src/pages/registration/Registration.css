@@ -1,0 +1,60 @@
+.registration {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 24px;
+}
+
+.registration__logo {
+  object-fit: contain;
+  width: 100px;
+  margin: 8px auto;
+}
+
+.registration__container {
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  width: 350px;
+  margin-bottom: 24px;
+}
+
+.registration__privacy {
+  font-size: 12px;
+}
+
+.registration__head {
+  margin-bottom: 12px;
+  font-size: 24px;
+}
+
+.registration__input > p {
+  margin-bottom: 6px;
+  font-size: 13px;
+}
+
+.registration__input {
+  margin-top: 12px;
+}
+
+.registration__btn {
+  margin: 16px 0;
+}
+
+.registration__conditions__privacy {
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.registration__success {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid green;
+  padding: 14px;
+  width: 350px;
+  margin-bottom: 16px;
+  border-radius: 4px;
+}

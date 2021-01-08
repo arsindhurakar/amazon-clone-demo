@@ -1,0 +1,44 @@
+.checkout {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+}
+
+.checkout__container {
+  /* width: 60vw; */
+  margin: 0 auto;
+  min-width: 1200px;
+  padding: 20px;
+}
+
+.checkout__container > form {
+  width: 28vw;
+  /* max-width: 500px; */
+}
+
+.checkout__title > p {
+  font-size: 24px;
+}
+
+.checkout__input__csz {
+  display: flex;
+}
+
+.checkout__input {
+  margin-top: 8px;
+  margin-right: 6px;
+}
+
+.checkout__input__csz > .checkout__input {
+  width: 100%;
+}
+
+.payment__details {
+  margin-top: 8px;
+}
+
+.payment__cost {
+  margin: 8px 0;
+}

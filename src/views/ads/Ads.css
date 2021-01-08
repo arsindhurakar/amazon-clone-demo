@@ -1,0 +1,43 @@
+.ads {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  width: 100%;
+  min-height: 385px;
+  /* min-width: 300px; */
+  /* align-content: space-between; */
+  /* background-color: red; */
+  z-index: 0;
+  position: relative;
+}
+
+.ads__signIn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  /* width: 100%; */
+  padding: 20px 10px;
+  min-height: 80px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.ads__signIn > p {
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+}
+
+.ads__image__container {
+  position: absolute;
+  bottom: 0px;
+}
+
+.ads__image {
+  width: 100%;
+  object-fit: contain;
+}

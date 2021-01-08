@@ -1,0 +1,15 @@
+.buttonLink {
+  background: none !important;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0 !important;
+}
+
+.buttonLink:hover {
+  opacity: 0.8;
+}
+
+.buttonLink:disabled {
+  cursor: not-allowed;
+}

@@ -1,0 +1,43 @@
+.orders {
+  /* width: 1500px;
+  padding: 16px;
+  margin: 16px auto; */
+  background-color: rgba(234, 237, 237);
+  min-width: 1500px;
+  padding: 16px;
+}
+
+.orders__head {
+  background-color: white;
+  width: 1000px;
+  padding: 16px;
+  margin: 0 auto;
+  font-size: 24px;
+}
+
+.orders__noOrder {
+  display: flex;
+  padding: 34px 16px;
+  background-color: white;
+  width: 100%;
+}
+
+.orders__noOrder > img {
+  object-fit: contain;
+  width: 300px;
+}
+
+.orders__noOrder__description {
+  line-height: 1.6;
+  position: relative;
+  top: 16px;
+  left: 16px;
+}
+
+.orders__noOrder__description__head {
+  font-size: 24px;
+}
+
+.orders__noOrder__description__body {
+  font-size: 14px;
+}

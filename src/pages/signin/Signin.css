@@ -1,0 +1,90 @@
+.signin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 24px;
+}
+
+.signin__logo {
+  object-fit: contain;
+  width: 100px;
+  margin: 8px auto;
+}
+
+.signin__container {
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  width: 350px;
+  margin-bottom: 24px;
+}
+
+.signin__privacy {
+  font-size: 12px;
+}
+
+.signin__head {
+  margin-bottom: 12px;
+  font-size: 24px;
+}
+
+.signin__input > p {
+  margin-bottom: 6px;
+  font-size: 13px;
+}
+
+.signin__input {
+  margin-top: 12px;
+}
+
+.signin__btn {
+  margin: 16px 0;
+}
+
+.signin__forgotPassword {
+  display: flex;
+  float: right;
+  font-size: 13px;
+  margin-top: 24px;
+}
+
+.signin__conditions__privacy {
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.signin__new__account {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.signin__new__account > p {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+
+/* .signin__new__account > button {
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid gray;
+}
+
+.signin__new__account > button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+} */
+
+.signin__error {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  padding: 14px;
+  width: 350px;
+  margin-bottom: 16px;
+  border-radius: 4px;
+}

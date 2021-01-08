@@ -1,0 +1,11 @@
+.order {
+  background-color: white;
+  width: 1000px;
+  padding: 16px;
+  margin: 16px auto;
+}
+
+.order__id {
+  font-size: 12px;
+  text-align: right;
+}
