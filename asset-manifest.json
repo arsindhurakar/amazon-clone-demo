@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/amazon-clone/static/css/main.f008a75c.chunk.css",
+    "main.js": "/amazon-clone/static/js/main.68e46131.chunk.js",
+    "main.js.map": "/amazon-clone/static/js/main.68e46131.chunk.js.map",
+    "runtime-main.js": "/amazon-clone/static/js/runtime-main.01a2cdd4.js",
+    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.01a2cdd4.js.map",
+    "static/js/2.f0c5245a.chunk.js": "/amazon-clone/static/js/2.f0c5245a.chunk.js",
+    "static/js/2.f0c5245a.chunk.js.map": "/amazon-clone/static/js/2.f0c5245a.chunk.js.map",
+    "static/js/3.21ea91f7.chunk.js": "/amazon-clone/static/js/3.21ea91f7.chunk.js",
+    "static/js/3.21ea91f7.chunk.js.map": "/amazon-clone/static/js/3.21ea91f7.chunk.js.map",
+    "index.html": "/amazon-clone/index.html",
+    "static/css/main.f008a75c.chunk.css.map": "/amazon-clone/static/css/main.f008a75c.chunk.css.map",
+    "static/js/2.f0c5245a.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.f0c5245a.chunk.js.LICENSE.txt",
+    "static/media/ad-image.f2d956ac.jpg": "/amazon-clone/static/media/ad-image.f2d956ac.jpg",
+    "static/media/amazon-banner.39a70df5.jpg": "/amazon-clone/static/media/amazon-banner.39a70df5.jpg",
+    "static/media/amazon-logo.64a0d895.png": "/amazon-clone/static/media/amazon-logo.64a0d895.png",
+    "static/media/product-beautyPicks.2d1d7318.jpg": "/amazon-clone/static/media/product-beautyPicks.2d1d7318.jpg",
+    "static/media/product-computerAccessories.6b484f94.jpg": "/amazon-clone/static/media/product-computerAccessories.6b484f94.jpg",
+    "static/media/product-gamingAccessories.0ef7bd8e.jpg": "/amazon-clone/static/media/product-gamingAccessories.0ef7bd8e.jpg",
+    "static/media/product-getFitAtHome.9c62006c.jpg": "/amazon-clone/static/media/product-getFitAtHome.9c62006c.jpg",
+    "static/media/product-shopLaptops.6d93ceff.jpg": "/amazon-clone/static/media/product-shopLaptops.6d93ceff.jpg",
+    "static/media/product-startOnHoliday.35db802a.jpg": "/amazon-clone/static/media/product-startOnHoliday.35db802a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a2cdd4.js",
+    "static/js/2.f0c5245a.chunk.js",
+    "static/css/main.f008a75c.chunk.css",
+    "static/js/main.68e46131.chunk.js"
+  ]
+}
